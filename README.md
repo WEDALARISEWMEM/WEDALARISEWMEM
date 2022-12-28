@@ -19,11 +19,11 @@ class kron1k {
     constructor(options) {
         this.name = "Beko",
         this.sex = "man",
-        this.length = "180",
+        this.length = "null",
         this.type = "human",
         this.job = "developer",
-        this.weight = "",
-        this.age = "",
+        this.weight = "null",
+        this.age = "null",
         this.discord.tag = "WEDALARI SEWMEM#1000"
     };
 }
