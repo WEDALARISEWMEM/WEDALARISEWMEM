@@ -8,3 +8,20 @@
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=WEDALARISEWMEM&theme=radical" />
 </p>
+
+
+
+class ravgar {
+    constructor(options) {
+        this.name = "Beko",
+        this.sex = "man",
+        this.length = "180",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "",
+        this.age = "",
+        this.discord.tag = "WEDALARI SEWMEM#1000"
+    };
+}
+
+module.exports = ravgar
