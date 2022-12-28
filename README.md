@@ -3,7 +3,7 @@
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![-PHP-05122A?style=flat&logo=PHP?style=flat&logo=php](https://img.shields.io/badge/-PHP-blue)
+![-PHP-05122A?style=flat&logo=PHP?style=flat&logo=PHP](https://img.shields.io/badge/-PHP-blue)
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
