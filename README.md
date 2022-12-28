@@ -2,7 +2,7 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideDiscrim=true)](https://discord.com/users/560917924257464320)
+[![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideDiscrim=true?hideStatus=true)](https://discord.com/users/560917924257464320)
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
