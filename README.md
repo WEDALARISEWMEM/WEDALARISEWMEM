@@ -1,3 +1,4 @@
+Yanımızda gezemeyen profilimizde gezer olmuş keke.
 [![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideDiscrim=true)](https://discord.com/users/560917924257464320)
 
 ## Langauges I Know:
