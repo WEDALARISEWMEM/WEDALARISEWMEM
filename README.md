@@ -2,6 +2,8 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 
 
 ![profile count](https://komarev.com/ghpvc/?username=WEDALARISEWMEM&color=8b72ff)&nbsp;
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideStatus=true)](https://discord.com/users/560917924257464320)
 
 ## Langauges I Know:
