@@ -10,7 +10,7 @@
 </p>
 
 
-
+```
 class kron1k {
     constructor(options) {
         this.name = "Beko",
@@ -25,3 +25,4 @@ class kron1k {
 }
 
 module.exports = kron1k
+```
