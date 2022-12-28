@@ -11,7 +11,7 @@
 
 
 
-class ravgar {
+class kron1k {
     constructor(options) {
         this.name = "Beko",
         this.sex = "man",
@@ -24,4 +24,4 @@ class ravgar {
     };
 }
 
-module.exports = ravgar
+module.exports = kron1k
