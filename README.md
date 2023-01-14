@@ -17,14 +17,14 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 ```
 class kron1k {
     constructor(options) {
-        this.name = "Beko",
+        this.name = "Bekocan",
         this.sex = "man",
         this.length = "null",
         this.type = "human",
         this.job = "developer",
         this.weight = "null",
         this.age = "null",
-        this.discord.tag = "WEDALARI SEWMEM#1000"
+        this.discord.tag = "KRON1K.#1000"
     };
 }
 
