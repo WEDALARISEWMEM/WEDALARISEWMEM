@@ -8,7 +8,6 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON)&nbsp;
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
