@@ -25,7 +25,7 @@ class kron1k {
         this.job = "developer",
         this.weight = "null",
         this.age = "null",
-        this.discord.tag = "KRON1K#1934"
+        this.discord.tag = "kronikxd"
     };
 }
 
