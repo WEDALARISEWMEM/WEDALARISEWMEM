@@ -21,7 +21,7 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 ```
 class kron1k {
     constructor(options) {
-        this.name = "Bekocan",
+        this.name = "kronik",
         this.sex = "man",
         this.length = "null",
         this.type = "human",
