@@ -3,7 +3,7 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 [![Discord Presence](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
 
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/stclan/)](https://discord.gg/stclan)
+[![Discord Banner](https://api.weblutions.com/discord/invite/SzcX7YEH5c/)](https://discord.gg/SzcX7YEH5c)
 
 ![profile count](https://komarev.com/ghpvc/?username=WEDALARISEWMEM&color=8b72ff)&nbsp;
 
