@@ -18,19 +18,7 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 </p>
 
 
-```
-class kron1k {
-    constructor(options) {
-        this.name = "kronik",
-        this.sex = "man",
-        this.length = "null",
-        this.type = "human",
-        this.job = "developer",
-        this.weight = "null",
-        this.age = "null",
-        this.discord.tag = "kronikxd"
-    };
-}
-
-module.exports = kron1k
+```<?php
+/* kronik1000 */
+?>
 ```
