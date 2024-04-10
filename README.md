@@ -18,7 +18,8 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 </p>
 
 
-```<?php
+```
+<?php
 /* kronik1000 */
 ?>
 ```
