@@ -4,7 +4,6 @@ Yanımızda gezemeyen profilimizde gezer olmuş keke.
 
 
 [![Discord Banner](https://api.weblutions.com/discord/invite/SzcX7YEH5c/)](https://discord.gg/SzcX7YEH5c)
-[![Discord Banner](https://api.weblutions.com/discord/invite/SzcX7YEH5c/)](https://discord.gg/SzcX7YEH5c)
 
 [![Discord Banner](https://api.weblutions.com/discord/invite/SCpMpkJ2MP/)](https://discord.gg/EjhJbDj5)
 
